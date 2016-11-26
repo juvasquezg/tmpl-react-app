@@ -1,5 +1,5 @@
 {
-  "name": "learning-react",
+  "name": "tmpl-react-app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -32,7 +32,7 @@
       "import/namespace": 0,
       "import/no-unresolved": 0,
       "import/no-named-as-default": 2,
-      "comma-dangle": 0,  // not sure why airbnb turned this on. gross!
+      "comma-dangle": 0,
       "indent": [2, 2, {"SwitchCase": 1}],
       "react/jsx-boolean-value": 0,
       "react/jsx-first-prop-new-line": 0,
