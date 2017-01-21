@@ -5,13 +5,13 @@ Este repo sirve como punto de partida para crear aplicaciones reactjs usando cre
 Para iniciar clone el repo y corra.
 
 ```
-$ yarn
+$ yarn install
 ```
 
 Luego para correr en desarrollo 
 
 ```
-$ npm start
+$ yarn start
 ```
 
 Disfuta creando apps en con **reactjs**
